@@ -9,7 +9,7 @@ tags:
 coverImage: "2020-11-17-21_35_53-ansible-awx-_-all-groups.png"
 ---
 
-This is the second part in how you can setup Vmware inventory in AWX based on VM tags. [Link to first part](/2020/11/04/setup-awx-vcenter-inventory-with-tags-part-1).
+This is the second part in how you can setup Vmware inventory in AWX based on VM tags. [Link to first part](/2020-11-04-setup-awx-vcenter-inventory-with-tags-part-1).
 
 Create a file that ends with vmware.yml or vmware.yaml. For example invent. I called my file invent.vmware.yml
 
