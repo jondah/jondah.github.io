@@ -7,7 +7,7 @@ categories:
 tags: 
   - "phpipam"
 redirect_from:
-- 2024/10/13/automate-azure-vnet-subnet-export-to-phpipam
+- 2024/10/13/automate-azure-vnet-subnet-export-to-phpipam/
 ---
 
 I wanted to explore how to export subnets in Azure to Phpipam. Phpipam is used to document all ip allocation but only on VNET level. All subnets that are created inside VNETs needs to be allocated by some kind of automation.  
