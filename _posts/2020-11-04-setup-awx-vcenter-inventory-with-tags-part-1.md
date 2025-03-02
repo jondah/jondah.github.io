@@ -5,6 +5,7 @@ categories:
   - "powershell"
 redirect_from:
   - 2020/11/04/setup-awx-vcenter-inventory-with-tags-part-1/
+  - 2020/11/04/__trashed/
 ---
 
 New to AWX and I had a goal to setup Vcenter as an inventory source with groups based on vmware tags. I got that setup working with ansible and started to investigate how to achieve same result in AWX. After a couple of days testing I got some hints on Reddit and was able to get it working as expected. Hopefully this guide can help someone (and me next time) setup inventory with tags.
