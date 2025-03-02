@@ -4,6 +4,8 @@ date: "2017-06-12"
 categories: 
   - "hp-procurve"
   - "networking"
+redirect_from:
+  - 2017/06/12/upgrade-firmware-on-hp-procurve-switches-with-tftp/
 ---
 
 Short instruction for firmware upgrade over TFTP and CLI.

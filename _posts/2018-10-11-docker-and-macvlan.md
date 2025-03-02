@@ -4,6 +4,8 @@ date: "2018-10-11"
 categories: 
   - "docker"
   - "networking"
+redirect_from:
+ - 2018/10/11/docker-and-macvlan/
 ---
 
 If you want to use docker containers in your regular LAN subnet you need to setup a new Docker network with macvlan driver.

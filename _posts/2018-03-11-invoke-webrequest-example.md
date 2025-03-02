@@ -3,6 +3,8 @@ title: "Invoke webrequest example"
 date: "2018-03-11"
 categories: 
   - "powershell"
+redirect_from:
+  - 2018/03/11/invoke-webrequest-example/
 ---
 
 This example uses invoke-webrequest to retrieve computer information from a company reporting webpage. Only text inside TD elements are stored in a array for future use and added to a PSObject.

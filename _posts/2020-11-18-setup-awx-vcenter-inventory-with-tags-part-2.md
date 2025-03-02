@@ -7,6 +7,8 @@ categories:
 tags: 
   - "awx"
 coverImage: "2020-11-17-21_35_53-ansible-awx-_-all-groups.png"
+redirect_from:
+  - 2020/11/18/setup-awx-vcenter-inventory-with-tags-part-2/
 ---
 
 This is the second part in how you can setup Vmware inventory in AWX based on VM tags. [Link to first part](/posts/setup-awx-vcenter-inventory-with-tags-part-1/).

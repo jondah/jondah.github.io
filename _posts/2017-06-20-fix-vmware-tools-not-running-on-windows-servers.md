@@ -4,6 +4,8 @@ date: "2017-06-20"
 categories: 
   - "powercli"
   - "powershell"
+redirect_from:
+  - 2017/06/20/fix-vmware-tools-not-running-on-windows-servers/
 ---
 
 I had some trouble with VMwaretools stopping on some machines and decided to automate restart och vmware tools. I wrote this script which takes a view parameter to view current status. If you start the script whitout the view parameter it will try to restart vmware tools.

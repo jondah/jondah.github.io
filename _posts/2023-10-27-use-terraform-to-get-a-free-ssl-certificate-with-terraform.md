@@ -6,6 +6,8 @@ categories:
 tags: 
   - "terraform"
 coverImage: "cert_in_keyvault.png"
+redirect_from:
+- 2023/10/27/use-terraform-to-get-a-free-ssl-certificate-with-terraform/
 ---
 
 I want to use a free SSL certificate from Let's encrypt to secure my Azure resources. For example an application behind a Application gateway. I will use a key vault to store my certificate. Beside azurerm Terraform provider vancluever/acme is also used. For documentation visit [https://registry.terraform.io/providers/vancluever/acme/latest/docs](https://registry.terraform.io/providers/vancluever/acme/latest/docs)  

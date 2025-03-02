@@ -4,6 +4,8 @@ date: "2022-11-07"
 categories: 
   - "azure"
   - "powershell"
+redirect_from:
+- 2022/11/07/add-your-server-to-azure-arc/
 ---
 
 Azure Arc helps your manage your on-prem servers from Azure portal. To add a server to Azure Arc just search for "Servers - Azure Arc" in the portal and press Add.  

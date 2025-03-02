@@ -4,6 +4,9 @@ date: "2022-02-23"
 categories: 
   - "networking"
   - "powershell"
+redirect_from:
+  - 2022/02/23/export-subnets-from-meraki-to-phpipam/
+
 ---
 
 In order to populate [phpIPAM](https://phpipam.net/) I needed to export all subnets that was already present in Meraki Dashboard without type all information manually. I found [PSMeraki](https://github.com/sanderkl/PSMeraki) module on Github which is a prerequisite for this script. The script creates a CSV that can be importet in to phpIPAM

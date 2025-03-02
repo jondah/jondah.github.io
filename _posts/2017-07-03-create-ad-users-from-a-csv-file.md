@@ -1,6 +1,8 @@
 ---
 title: "Create AD users from a CSV-file"
 date: "2017-07-03"
+redirect_from:
+  - 2017/07/03/create-ad-users-from-a-csv-file/
 ---
 
 Here is an example of a script to create AD users from a CSV-file and assign a temoporary password.

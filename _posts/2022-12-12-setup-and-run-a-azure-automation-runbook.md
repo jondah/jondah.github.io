@@ -3,6 +3,8 @@ title: "Setup and run a Azure automation runbook"
 date: "2022-12-12"
 categories: 
   - "powershell"
+redirect_from:
+- 2022/12/12/setup-and-run-a-azure-automation-runbook/
 ---
 
 A runbook can help you to run scripts on a schedule or trigger them with a webhook. You can either run them in Azure or on your on-premises server. This example will show how to run a script on a on-premises that is connected to Azure Arc.  

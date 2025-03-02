@@ -4,6 +4,8 @@ date: "2022-03-14"
 categories: 
   - "active-directory"
 coverImage: "your-group.png"
+redirect_from:
+- 2022/03/14/gpo-and-local-administrator-group/
 ---
 
 It's common to use a Group policy preference to push a AD group to local admin group on a server or client.  

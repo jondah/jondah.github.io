@@ -3,6 +3,8 @@ title: "Terraform and Active Directory"
 date: "2023-01-04"
 categories: 
   - "powershell"
+redirect_from:
+- 2023/01/04/terraform-and-active-directory/
 ---
 
 I have worked a lot with AD during the past years mostly with powershell. This time I needed to create a AD computer object with terraform and started to look into how to setup terraform AD provider.

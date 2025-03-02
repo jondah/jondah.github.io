@@ -3,6 +3,8 @@ title: "OP5 plugin example in powershell"
 date: "2017-06-09"
 categories: 
   - "op5"
+redirect_from:
+  - 2017/06/09/op5-plugin-example-in-powershell/
 ---
 
 If you want to monitor your windows server uptime in OP5. Run from NSClient++ on all hosts you want to monitor uptime on.

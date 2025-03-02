@@ -4,6 +4,8 @@ date: "2017-11-08"
 categories: 
   - "powercli"
   - "powershell"
+redirect_from:
+  - 2017/11/08/migrate-vms-between-clusters-with-powecli/
 ---
 
 A short script to migrate VMs to a new cluster or host. Migrates one vm at a time to save network bandwith. After migration it upgrades Vmware tools to match current host version.

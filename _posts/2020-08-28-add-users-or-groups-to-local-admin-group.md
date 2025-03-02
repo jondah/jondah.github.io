@@ -5,6 +5,8 @@ categories:
   - "powershell"
 tags: 
   - "multiserver"
+redirect_from:
+  - 2020/08/28/add-users-or-groups-to-local-admin-group/
 ---
 
 Sometimes you need to add users or groups in local Administrators group on a windows server. This function helps to accomplish that on one or more servers. Load a text- or csv-file and pipe it to Add-AdminGroup. All servers not responding will be shown at the end for later follow-up.

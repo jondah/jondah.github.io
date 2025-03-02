@@ -4,6 +4,8 @@ date: "2017-06-07"
 categories: 
   - "powershell"
   - "windows-7"
+redirect_from:
+  - 2017/06/07/change-backround-image-on-windows-7/
 ---
 
 I needed a script to change desktop wallpaper for all users using the default one with an outdated company logo on. I came up with this startup script as a solution. Set $filesize to the size of the old wallpaper to only change wallpapers with same filesize. Use as logon script.

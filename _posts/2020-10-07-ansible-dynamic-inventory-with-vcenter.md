@@ -7,6 +7,8 @@ tags:
   - "vcenter"
   - "vmware"
 coverImage: "image.png"
+redirect_from:
+  - 2020/10/07/ansible-dynamic-inventory-with-vcenter/
 ---
 
 In order to create your Ansible groups based on vmware tags you need to create a inventory file and name it to something.vmware.yaml.

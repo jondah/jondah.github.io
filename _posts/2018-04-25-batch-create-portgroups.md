@@ -4,6 +4,8 @@ date: "2018-04-25"
 categories: 
   - "powercli"
   - "powershell"
+redirect_from:
+  - 2018/04/25/batch-create-portgroups/
 ---
 
 How to create new portgroups in a VD Switch from a CSV-file. Very handy when adding several portgroups at one time. 

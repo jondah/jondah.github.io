@@ -7,6 +7,8 @@ categories:
 tags: 
   - "vcenter"
   - "vmware"
+redirect_from:
+  - 2020/05/21/list-vms-according-to-memory-and-cpu-usage/
 ---
 
 For internal billing purpose I needed a way list all Windows VMs for a given subsidiary and their CPU and memory configuration.

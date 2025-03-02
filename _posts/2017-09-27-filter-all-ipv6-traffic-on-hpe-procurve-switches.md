@@ -9,6 +9,8 @@ tags:
   - "ipv6"
   - "network"
   - "procurve"
+redirect_from:
+  - 2017/09/27/filter-all-ipv6-traffic-on-hpe-procurve-switches/
 ---
 
 This config will dropp all ipv6 packages on vlan 1

@@ -4,6 +4,8 @@ date: "2017-06-08"
 categories: 
   - "op5"
   - "powershell"
+redirect_from:
+  - 2017/06/08/create-a-new-host-via-op5-api-with-powershell/
 ---
 
 If you need to create a new host with OP5 api you can use something like this. Template, hostgroups and contactgroups are not mandatory and can be removed from hash table.

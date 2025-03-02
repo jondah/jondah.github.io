@@ -3,6 +3,8 @@ title: "New-Harddisk"
 date: "2017-06-07"
 categories: 
   - "powercli"
+redirect_from:
+  - 2017/06/07/new-harddisk/
 ---
 
 Short commad to add a new thin disk to a existing VM.
