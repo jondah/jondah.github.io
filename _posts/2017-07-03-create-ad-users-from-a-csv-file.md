@@ -1,6 +1,10 @@
 ---
 title: "Create AD users from a CSV-file"
 date: "2017-07-03"
+categories:
+  - "powershell"
+tags:
+  - "active-directory"
 redirect_from:
   - 2017/07/03/create-ad-users-from-a-csv-file/
 ---
