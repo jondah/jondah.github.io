@@ -5,6 +5,8 @@ categories:
   - "homelab"
 tags: 
   - "proxmox"
+redirect_from:
+- 2024/02/14/setup-proxmox-with-lets-encrypt-and-loopia-dns-challange/
 ---
 
 I recently installed Proxmox in my homelab and wanted to use Let's encrypt certificates for my nodes. I have my domain registered at Loopia a Swedish webhosting company. When using their DNS services it's possible to create an API user for the ACME client to automate the DNS challenge. This is needed to prove that you own the domain.  
